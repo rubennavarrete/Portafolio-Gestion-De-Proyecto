@@ -18,6 +18,7 @@ let pdf13 = document.getElementById("pdf13");
 let pdf14 = document.getElementById("pdf14");
 let pdf15 = document.getElementById("pdf15");
 let pdf16 = document.getElementById("pdf16");
+let pdf17 = document.getElementById("pdf17");
 
 $button.addEventListener("click", (e) => {
   e.preventDefault();
@@ -100,6 +101,7 @@ function changePdf1() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf2() {
@@ -119,6 +121,7 @@ function changePdf2() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf3() {
@@ -138,6 +141,7 @@ function changePdf3() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf4() {
@@ -157,6 +161,7 @@ function changePdf4() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf5() {
@@ -176,6 +181,7 @@ function changePdf5() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf6() {
@@ -195,6 +201,7 @@ function changePdf6() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf7() {
@@ -214,6 +221,7 @@ function changePdf7() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf8() {
@@ -233,6 +241,7 @@ function changePdf8() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf9() {
@@ -252,6 +261,7 @@ function changePdf9() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf10() {
@@ -271,6 +281,7 @@ function changePdf10() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf11() {
@@ -290,6 +301,7 @@ function changePdf11() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf12() {
@@ -309,6 +321,7 @@ function changePdf12() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf13() {
@@ -328,6 +341,7 @@ function changePdf13() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf14() {
@@ -347,6 +361,7 @@ function changePdf14() {
   pdf14.style.display = "block";
   pdf15.style.display = "none";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf15() {
@@ -366,6 +381,7 @@ function changePdf15() {
   pdf14.style.display = "none";
   pdf15.style.display = "block";
   pdf16.style.display = "none";
+  pdf17.style.display = "none";
 }
 
 function changePdf16() {
@@ -385,4 +401,25 @@ function changePdf16() {
   pdf14.style.display = "none";
   pdf15.style.display = "none";
   pdf16.style.display = "block";
+  pdf17.style.display = "none";
+}
+
+function changePdf17() {
+  pdf1.style.display = "none";
+  pdf2.style.display = "none";
+  pdf3.style.display = "none";
+  pdf4.style.display = "none";
+  pdf5.style.display = "none";
+  pdf6.style.display = "none";
+  pdf7.style.display = "none";
+  pdf8.style.display = "none";
+  pdf9.style.display = "none";
+  pdf10.style.display = "none";
+  pdf11.style.display = "none";
+  pdf12.style.display = "none";
+  pdf13.style.display = "none";
+  pdf14.style.display = "none";
+  pdf15.style.display = "none";
+  pdf16.style.display = "none";
+  pdf17.style.display = "block";
 }
